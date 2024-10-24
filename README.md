@@ -84,4 +84,3 @@ This script is distributed under the MIT License. See `LICENSE` for more informa
 ## Author
 
 Developed by [Tushar]
-```
